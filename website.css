@@ -1,0 +1,50 @@
+.heading {
+    padding: 70px;
+    text-align: center;
+    background-color: turquoise;
+    color: white;
+}
+
+.narbar {
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 1px 20px;
+    text-align: center;
+}
+
+.narbar a {
+    color: white;
+    padding: 14px 20px;
+    text-align: center;
+}
+
+.leftrow {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.side {
+    flex: 20%;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+.rightrow {
+    flex: 500px;
+    background-color: white;
+    padding: 20px;
+}
+
+.coco {
+    background-color: gray;
+    width: 400px;
+    padding: 20px;
+}
+
+.footer {
+    width: 1500px;
+    padding: 20px;
+    text-align: center;
+    background-color: #ddd;
+}
